@@ -32,7 +32,7 @@ To deploy the BookFinder project using Streamlit, follow these steps:
 
 2. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/BookFinder.git
+    https://github.com/abhishekp888/Book-Finder-CV-Project.git
     ```
 
 3. Navigate to the project directory:
