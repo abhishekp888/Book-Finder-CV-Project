@@ -42,7 +42,7 @@ To deploy the BookFinder project using Streamlit, follow these steps:
 
 4. Run the Streamlit app:
     ```bash
-    streamlit run bookfinder_app.py
+    streamlit run cvproj.py
     ```
 
 5. Open the provided URL in your browser.
